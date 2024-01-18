@@ -1,0 +1,44 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+password                                                                          0x026E       4
+y11                                                                               0x0272       2
+y12                                                                               0x0274       2
+y13                                                                               0x0276       2
+y14                                                                               0x0278       2
+y15                                                                               0x027A       2
+my_password                                                                       0x027C       2
+_seed                                                                             0x027E       4
+_base_y                                                                           0x0282       4
+_lcd_x                                                                            0x0286       1
+_lcd_y                                                                            0x0287       1
+_lcd_maxx                                                                         0x0288       1
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+total_number                                                                      R4,R5        2
+a                                                                                 R6,R7        2
+b                                                                                 R8,R9        2
+c                                                                                 R10,R11      2
+d                                                                                 R12,R13      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+key                                                                               0x000EA     77
+amaliat                                                                           0x00137    181
+main                                                                              0x001EC    383
+itoa                                                                              0x0036B     46
+_lcd_write_nibble_G101                                                            0x00399     20
+_lcd_write_data                                                                   0x003AD     12
+lcd_gotoxy                                                                        0x003B9     17
+lcd_clear                                                                         0x003CA     14
+lcd_putchar                                                                       0x003D8     32
+lcd_puts                                                                          0x003F8     15
+lcd_putsf                                                                         0x00407     19
+lcd_init                                                                          0x0041A     46
