@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:54B7B5EE
+NODE:I LEVEL:0 LINE:7 "E:\New folder\inc\io.h"
+NODE:I LEVEL:0 LINE:8 "E:\New folder\inc\mega32.h"
+NODE:I LEVEL:0 LINE:9 "E:\New folder\inc\delay.h"
+NODE:V LEVEL:0 LINE:11 "seg -> RAM:????"
+NODE:F LEVEL:0 LINE:13 "main(void)"
