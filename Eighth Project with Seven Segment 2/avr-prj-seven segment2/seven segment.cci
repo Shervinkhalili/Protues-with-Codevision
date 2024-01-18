@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:54B7BC55
+NODE:I LEVEL:0 LINE:2 "E:\New folder\inc\mega32.h"
+NODE:I LEVEL:0 LINE:3 "E:\New folder\inc\delay.h"
+NODE:M LEVEL:0 LINE:4 "key1"
+NODE:M LEVEL:0 LINE:5 "key2"
+NODE:F LEVEL:0 LINE:7 "main(void)"
